@@ -20,7 +20,7 @@ int main(){
     
     while(1){
     
-        printf("\nWhich would you like to do\n1. Conversion\n2. Shopping List\n3. Portion calculator\n4. Exit\n");
+        printf("\nWhich would you like to choose?\n1. Conversion\n2. Shopping List\n3. Portion calculator\n4. Exit\n");
         scanf("%d", &option);
 
         getchar();
